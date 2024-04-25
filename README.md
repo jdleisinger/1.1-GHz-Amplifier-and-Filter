@@ -6,7 +6,7 @@
 # Bandpass Filter
 ![bandpass_filter](https://github.com/jdleisinger/1.1-GHz-PCB-Amplifier-and-Filter/assets/167725183/56641378-b947-4acf-8cca-427c8e8afa50)
 
-#DC Bias Network
+# DC Bias Network
 ![DC_bias_network](https://github.com/jdleisinger/1.1-GHz-PCB-Amplifier-and-Filter/assets/167725183/550b1d64-3ad3-42fd-87e6-cc7e996f9170)
 
 # Final PCB
